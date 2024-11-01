@@ -1,0 +1,74 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "code": "BO-0001",
+      "name": "ten sach",
+      "genre": 1,
+      "input": "2022/01/24",
+      "quality": 20
+    },
+    {
+      "id": 2,
+      "code": "BO-0002",
+      "name": "ten sach",
+      "genre": 2,
+      "input": "2022/01/24",
+      "quality": 20
+    },
+    {
+      "id": 3,
+      "code": "BO-0003",
+      "name": "ten sach",
+      "genre": 3,
+      "input": "2022/01/24",
+      "quality": 20
+    },
+    {
+      "code": "BO-1010",
+      "name": "Thành Công",
+      "genre": 0,
+      "quality": 123,
+      "input": "2024-10-31",
+      "id": 4
+    },
+    {
+      "code": "BO-1123",
+      "name": "Thành Công",
+      "genre": 0,
+      "quality": 5,
+      "input": "2024-10-29",
+      "id": 5
+    },
+    {
+      "code": "BO-1124",
+      "name": "Thành Công",
+      "genre": 3,
+      "quality": 3,
+      "input": "2024-10-27",
+      "id": 6
+    },
+    {
+      "code": "BO-4727",
+      "name": "Không biết",
+      "genre": 1,
+      "quality": 9,
+      "input": "2024-10-28",
+      "id": 7
+    }
+  ],
+  "genre": [
+    {
+      "id": 1,
+      "name": "truyện"
+    },
+    {
+      "id": 2,
+      "name": "tiểu thuyết"
+    },
+    {
+      "id": 3,
+      "name": "học"
+    }
+  ]
+}
